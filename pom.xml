@@ -9,6 +9,7 @@
 	<url>http://maven.apache.org</url>
 	<properties>
 		<docker.image.prefix>devops</docker.image.prefix>
+		<sonar.host.url>http://50.17.81.3:9000/</sonar.host.url>
 	</properties>	
 	<dependencies>
 		<dependency>
